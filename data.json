@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "name":"chari",
+    "photo":"image.png",
+    "email":"bandaru1998@gmail.com",
+    "mobileno":"9999999999",
+    "address":"SVIT COLLEGE"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech",
+      "institute":"SVIT,Anantapur",
+      "data":["2015-2019","70%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"sri chaithanya",
+      "data":["2013-2015","77%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Sri vidyanikethan high school",
+      "data":["2013","70%"]
+    }
+  ],
+  "skills":[
+    {
+      "sname":"Languages",
+      "sdata":["C","C++","Java"]
+    },
+    {
+      "sname":"DataBases",
+      "sdata":["Oracle","MySql","MySqLite","PDO"]
+    },
+    {
+      "sname":"Web Technologies",
+      "sdata":["HTML","XML","CSS","PHP","JavaScript"]
+    },
+    {
+      "sname":"Operating Systems",
+      "sdata":["Windows","Linux","Unix"]
+    }
+  ]
+}
